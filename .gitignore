@@ -12,3 +12,12 @@
 *Thumbs.db
 *.sass-cache*
 *~imageoptim*
+
+wp-content/themes/twenty*
+wp-content/upgrade
+wp-content/uploads
+sitemap.*
+wp-config.php
+.htaccess
+wp-config.php
+
